@@ -5,3 +5,4 @@ Analysis module
    :members:
    :undoc-members:
    :show-inheritance:
+`
